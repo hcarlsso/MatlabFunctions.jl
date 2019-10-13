@@ -1,5 +1,7 @@
 module MatlabFunctions
 
+using LinearAlgebra
+
 export
     eye,
     blkdiag,
