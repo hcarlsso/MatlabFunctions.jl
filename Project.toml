@@ -1,0 +1,6 @@
+authors = ["hakcar "]
+name = "MatlabFunctions"
+uuid = "3ecf248a-ed8f-11e9-1c7d-372f3e6b1560"
+version = "0.1.0"
+
+[deps]
